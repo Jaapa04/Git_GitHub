@@ -1,1 +1,5 @@
-
+git innit inicia o git na pasta
+git add adiciona algum ou todos arquivos ao modo stage que significa modo de espera
+git commit -m "aqui voce coloca descriçao do seu comite para nao se perder" (o comit realiza a operaçao para o github criando uma sha1 especifica para aqula alteração)
+git pulsh empurra os arquivos que foram comitados para o projeto no Github
+git pull e para corrigir quando tem erros marge(que e quando um usuario altera a mesma linha que voce e entao ocorre um tipo de incopatibilidade) 
